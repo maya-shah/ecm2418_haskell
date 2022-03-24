@@ -2,7 +2,7 @@
 
 This is the finished coursework I did for ECM2418 for 2021.
 It consists of three folders:
-- *src* contains the three main modules: Compiler.hs, Interpreter.hs, and StackMachine.hs.
+- *src* contains the three main modules: Compiler.hs, Interpreter.hs, and Machine.hs.
 - *test* contains a simple testsuite which allows you to check that your code satisfies minimum criteria.
 - *app* contains the main module which is invoked when the executable is executed.
 
